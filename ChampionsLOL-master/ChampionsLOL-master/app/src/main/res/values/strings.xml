@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChampionsLOL</string>
+    <string name="name">name</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="mp">Mp</string>
+    <string name="hp">Hp</string>
+    <string name="tags">Tags</string>
+</resources>
