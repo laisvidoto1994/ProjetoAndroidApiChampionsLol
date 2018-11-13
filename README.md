@@ -22,6 +22,7 @@ Tela de favoritos será consumida via banco de dados.
 
 
 Tela Principal de Listagem de dados da Api 
+
 ![image](https://user-images.githubusercontent.com/18018049/48420164-f0486680-e740-11e8-835a-32373bce9068.png)
 
 Api-> https://raw.githubusercontent.com/ngryman/lol-champions/master/champions.json
